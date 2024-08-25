@@ -1,0 +1,3 @@
+bool led_one_is_active
+bool led_two_is_active
+bool led_three_is_active

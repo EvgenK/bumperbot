@@ -1,0 +1,15 @@
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/ament_index/resource_index/package_run_dependencies/bumperbot_controller
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/ament_index/resource_index/parent_prefix_path/bumperbot_controller
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/bumperbot_controller/environment/ament_prefix_path.sh
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/bumperbot_controller/environment/ament_prefix_path.dsv
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/bumperbot_controller/environment/path.sh
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/bumperbot_controller/environment/path.dsv
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/bumperbot_controller/local_setup.bash
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/bumperbot_controller/local_setup.sh
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/bumperbot_controller/local_setup.zsh
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/bumperbot_controller/local_setup.dsv
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/bumperbot_controller/package.dsv
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/ament_index/resource_index/packages/bumperbot_controller
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/bumperbot_controller/cmake/bumperbot_controllerConfig.cmake
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/bumperbot_controller/cmake/bumperbot_controllerConfig-version.cmake
+/home/emkorogodsky/ros2_ws/src/install/bumperbot_controller/share/bumperbot_controller/package.xml

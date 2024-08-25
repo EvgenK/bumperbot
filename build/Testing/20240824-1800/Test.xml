@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240824-1800-Experimental"
+	Name="ubuntu-vm"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="ubuntu-vm"
+	OSRelease="6.8.0-40-generic"
+	OSVersion="#40~22.04.3-Ubuntu SMP PREEMPT_DYNAMIC Tue Jul 30 17:53:10 UTC 2"
+	OSPlatform="aarch64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="8"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="1"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15952"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Aug 24 17:19 CDT</StartDateTime>
+		<StartTestTime>1724537992</StartTestTime>
+		<TestList/>
+		<EndDateTime>Aug 24 17:19 CDT</EndDateTime>
+		<EndTestTime>1724537992</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
